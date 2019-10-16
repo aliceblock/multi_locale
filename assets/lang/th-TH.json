@@ -1,0 +1,11 @@
+{
+  "app": {
+    "title": "Multi locale clicker",
+    "description": "คลิกสิคลิกหลายๆที"
+  },
+  "counter": {
+    "zero": "{} ครั้ง",
+    "one": "{} ครั้ง",
+    "other": "{} ครั้ง"
+  }
+}

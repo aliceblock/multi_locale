@@ -1,0 +1,11 @@
+{
+  "app": {
+    "title": "Multi locale clicker",
+    "description": "You have pushed the button this many times"
+  },
+  "counter": {
+    "zero": "{} times",
+    "one": "{} time",
+    "other": "{} times"
+  }
+}
